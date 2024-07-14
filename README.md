@@ -8,7 +8,7 @@ This project demonstrates a simple card animation using HTML and CSS.
 - Open `index.html` in your browser to see the animation.
 
 ## Demo
-!Card Animation
+[!Card Animation](https://kundank27.github.io/Card-Animation/)
 
 ## Contributing
 Contributions are welcome! Fork the repo and submit a pull request.
